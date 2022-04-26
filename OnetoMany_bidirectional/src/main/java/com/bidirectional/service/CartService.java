@@ -20,6 +20,7 @@ public class CartService {
 	   public List<Cart> getCarts(){
 	        return cartRepository.findAll();
 	    }
+	   
 	    
 	    public Page<Cart> findProductsWithPagination(int offset,int pageSize){
 	        Page<Cart> categories = cartRepository.findAll(PageRequest.of(offset, pageSize));

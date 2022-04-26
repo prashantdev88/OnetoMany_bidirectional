@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="OnetoMany_bidirectional/src/main/java"/>
+	<classpathentry kind="src" path="OnetoMany_bidirectional/src/test/java"/>
+	<classpathentry kind="lib" path="OnetoMany_bidirectional/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="OnetoMany_bidirectional/target/classes"/>
+</classpath>
